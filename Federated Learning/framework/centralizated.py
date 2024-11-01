@@ -20,7 +20,7 @@ def runWithoutFL():
 
 
     withoutFL.compile(loss="binary_crossentropy", optimizer=opt, metrics=["accuracy"])
-    history = withoutFL.fit(X_train, y_train, epochs, batch_size=32)
+    history = withoutFL.fit(X_train, y_train, epochs=epochs, batch_size=32)
 
     end_time = time.time()
     execution_time = end_time - start_time
