@@ -44,6 +44,7 @@ def startFL ():
     start_time = time.time()
 
     for comm_round in range(comms_round):
+        print ('Communication Round: ' + str(comm_round))
         # get the global model's weights - will serve as the initial weights for all local models
         global_weights = global_model.get_weights()
 
