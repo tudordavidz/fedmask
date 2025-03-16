@@ -77,6 +77,7 @@ For Federated Learning Framework: <br>
 - Model performance metrics
 - Box and whisker plot
 - Confusion matrix plot
+- A table containing the mean with standard deviation, confidence intervals, and p-values.
 
 Centralized Network Framework: <br>
 
