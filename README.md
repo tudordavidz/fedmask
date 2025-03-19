@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15051505.svg)](https://doi.org/10.5281/zenodo.15051505)
+
 # Raspberry Pi 4 Computer Vision and Federated Learning Framework
 
 This repository contains a Computer Vision and Federated Learning framework designed to run optimally on a Raspberry Pi 4 (8 GB RAM) with a 64-bit Bullseye operating system.
